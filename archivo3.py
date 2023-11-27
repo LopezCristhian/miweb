@@ -2,7 +2,7 @@
 def add_numbers():
     try:
         print('\nLa suma de los números ingresados es:', int(input('\nDigita el primer número a sumar: ')) + int(input('\nDigita el segundo número a sumar: ')))
-    except ValueError: print('\n😯 No corazón, lo que ingresaste no es un número, intenta nuevamente mi cielo 😗')    
+    except ValueError: print('\n😯 Lo que ingresaste no es un número, intenta nuevamente 👍')    
 
 
 # Main de Python
